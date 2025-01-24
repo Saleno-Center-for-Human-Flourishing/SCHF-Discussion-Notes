@@ -1,0 +1,73 @@
+# The Game Inside the Mind
+
+## The Problem
+
+Game development prioritizing kinesthetics outsells console with superior graphics.
+These are two competing versions of realism.
+Phenomenalism:
+
+> people do not directly perceive the actual world, but instead experience a realm that is a function of their own private sensory manifolds.
+Enactivism:
+
+> direct perception is a function of the way we physically manipulate ourselves and our environments.
+
+### Extant Phenomenalist Views
+
+#### Russellian Heritage Part I
+
+Bertrand Russell in Problems of Philosophy
+
+> To the eye it is oblong, brown and shiny, to the touch it is smooth and cool and hard; when I tap it, it gives out a wooden sound. Anyone else who sees and feels and hears the table will agree with this description, so that it might seem that no difficulty would arise.
+We only perceive sense data, things that are immediately known to the senses:
+
+* colours
+* sounds
+* smells
+* hardness
+* roughness
+
+If only direct to the senses, why should game developers focus on photorealism?
+
+##### Arguments for Sense Data
+
+> ... as soon as we try to be more precise our troubles begin. Although I believe that the table is "really" of the same colour all over, the parts that reflect the light look much brighter than the other parts, and some parts look white because of reflected light. I know that, if I move, the parts that reflect the light will be different, so that the apparent distribution of colours on the table will change. It follows that if several people are looking at the table at the same moment, no two of them will see exactly the same distribution of colours, becauseno two can see it from exactly the same point of view, and any change in the point of view makes some change in the way the light is reflected. (*problems* 2)
+
+1. There are different sensory modalities through which we can experience an object.
+2. Therefore the way an object presents itself changes
+
+##### Russell's Problems of Philosophy Argument
+
+1. Properties that are perceived by us change with our positions and techniques of observation.
+2. But real properties of objects are stable.
+3. Therefore the properties of objects that we perceive are not the real properties of the objects that exist.
+
+There are two kinds of properties then.
+
+* Properties of Perception
+* Real Properties
+
+##### Phenomenalism and the Player as Homunculus
+
+Perception and feedback seem to be synonymous. Therefore viewing entities on a monitor is no different than viewing them in real life. Therefore improving the sense data will correlate with attributions of realism.
+
+##### The Argument from Different Minds
+
+1. Other creatures perceive the world differently from us.
+2. Therefore it is possible that neither us or those other creatures are perceiving the actual world, but rather only the world of perception.
+3. Therefore we only perceive sense data rather than the real properties of objects.
+
+#### Russellian Heritage Part II
+
+#### Heideggerian Heritage Part I, enactive theory of perception
+
+## Empirical Observations
+
+## Bugs make this game real as ffffflip: Enactivism and Star Citizen game development
+
+Welcome to part II of phenomenalism and enactivism in game development. In part one, following Cogburn and Silcox, we looked at what counts as realism in game development. There are two views regarding what counts as realism, at least as we are currently concerned with here. Graphical representation, and kinesthetics. Phenomenalists would argue in favor of photorealism meaning that game development companies would do better to invest heavily in graphical representation. This is because phenomenalists do not think that we directly perceive the world around us. Rather we perceive phenomenal images that we derive from various sense data. It is not clear, but it would appear that we interpret this data in a way that is beneficial for us. Examples of this view can be found in movies like *The Matrix*, *Thirteenth Floor*, and *eXistenZ*; each of which portray images of the world that are drastically different from the way that they appear to the characters in those films.
+
+We looked at two arguments thus far, the Russelian problem of philosophy and the Russelian argument from different minds.
+
+## Conclusions
+
+

@@ -1,0 +1,24 @@
+---
+title: "Solano Center for Human Flourishing Companion Book"
+author: "Montaque Reynolds"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: ["/home/redapemusic35/data_storage/Exported-Items.bib"]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This book is the companion page to the Star Citizen Org known as [the Solano Center for Human Flourishing, or SCHF](https://robertsspaceindustries.com/orgs/SCHF). Star Citizen is a MMO (Mass Multiplayer Online)/Space Simulator that is currently under development by CIG (Cloud Imperium Games). Orgs are community spaces that allow players in the game to gather around shared interests and vision for the game.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+output:
+  bookdown::pdf_book:
+    number_sections = FALSE
+header-includes:
+  - \usepackage{setspace}\doublespacing
+  - \newtheorem{theorem}{Baker Street}
+  - \newtheorem{lem}[theorem]{Fiction}
+  - \newtheorem{cor}[theorem]{Corollary}
+  - \newtheorem{conj}[theorem]{Conjecture}
+  - \newtheorem{remark}[theorem]{Remark}
+---
