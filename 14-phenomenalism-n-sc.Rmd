@@ -1,6 +1,32 @@
 # Phenomenalism in SC
 
-I keep coming back to the topic of phenomenalism in Star Citizen. Star Citizen is a mass multiplayer online universe. Upon clicking "launch" on the RSI launcher, I wait a couple of dozen seconds where I am met with a menu screen. I have the option of selecting "Persistent Universe" or "Squadron 51". These are both games in the process of development by the company Cloud Imperium Games or CIG for short. Squadron 51 is similar to Call of Duty or other first person shooters. There are various possibilities however beyond what you might expect to find in a first person shooter, including squadron battles where you can participate with up to 12 other people in a 12 on 12 battle. These battles can be won in fighter craft, and other vehicles or on foot. They are fun, but the really interesting aspect of loading into Star Citizen is the persistent universe itself. One's understanding of Squadron 51 changes when viewing it in contrast to the PU.
+Assuming that what makes a video game enterprise, like Star Citizen, successful, is its representation of what is reality, an important question in this context, game development, is what counts as real. For this, we need a theory of realism. Why this is important, is because one prevailing view about what makes a successful game enterprise, is the way that that game accurately represents the way things are. That what the consumers of video games want above all else, are games that accurately reflect reality.
+
+Philosophically speaking, this question is known as realism and anti-realism. There are different treatments of this question which span across various philosophical subdisciplines, including but not limited to, the philosophy of science, metaphysics / epistemology, and value theory. There are of course many different versions the question, depending on the relevant philosophical sub-discipline. For instance, in value theory, ergo, ethics, we might ask whether moral judgments accurately reflect the way things are. When stating moral value judgments, do we say something true about the real world? Do these judgments track truth of the real world?
+
+But we are not here to talk about the existence of moral truths that our judgments may or may not track, but rather we are here to talk about what it means to represent reality. The right answer here ought to tell us what will make a given video game successful. At least according to @cogb09, it should.
+
+First, one particular question that the realism and anti-realism debate tracks, is what is known as "the question of the external world". Those who are somewhat familiar with philosophical debates, might think that this is a metaphysical question. However, the way I will approach it here, the way I believe @cogb09 to approach it, is epistemically. Therefore, the question that we are asking, is how do we experience our environment? The correct theory about how we experience our environment, will tell game developers how they should represent our environment.
+
+For our purposes here, we will only look at two views. These are enactivism and phenomenalism.
+
+According to phenomenalist theories, we do not directly perceive our environments. Rather, we have various sensory experiences and from these, we infer various facts about our environment.
+
+For instance, @russ12 in his book *Problems with Philosophy* gives an example of this view.
+
+> To the eye it is oblong, brown and shiny, to the touch it is smooth and cool and hard; when I tap it, it gives out a wooden sound. Anyone else who sees and feels and hears the table will agree with this description, so that it might seem that no difficulty would arise.
+
+Accordingly, we only perceive sense data, things that are immediately known to the senses:
+
+* colours
+* sounds
+* smells
+* hardness
+* roughness
+
+But not objects.
+
+I keep coming back to the topic of phenomenalism in Star Citizen. Star Citizen is a mass multiplayer online universe. It has also been called a sand box. It is still in development so for me, it is not clear what its end state is going to be. Personally, my hope has always been, and will always be, that it ends up becoming more like a simulator than anything else. It is perhaps one of the most immersive game environments available. Upon clicking "launch" on the RSI launcher, I wait a couple of dozen seconds where I am met with a menu screen. I have the option of selecting "Persistent Universe" or "Squadron 51". These are both games in the process of development by the company Cloud Imperium Games or CIG for short. Squadron 42 is similar to Call of Duty or other first person shooters. There are various possibilities however beyond what you might expect to find in a first person shooter, including squadron battles where you can participate with up to 12 other people in a 12 on 12 battle. These battles can be won in fighter craft, and other vehicles or on foot. They are fun, but the really interesting aspect of loading into Star Citizen is the persistent universe itself. One's understanding of Squadron 51 changes when viewing it in contrast to the PU.
 
 The PU is a massive time sync. Not only does it take time loading the game, but everything takes time doing. On logging into the PU, I find myself lying down and looking at the area in front of my face which I understand to be above my head. Scrolling out, I see that I am in something like a "rack" one might find on a Navy or Coast Guard ship. Looking around, I am in a small room, there is a small shower / commode, a couple of counters, some closet space etc. The area I find myself in is a habitation unit, or hab for short. It's where I reside, although this mechanic is one of the more unfinished aspects of the game. As soon as I leave this area, there is no way to re-enter it except by logging out and back in. Thanks to persistent streaming, sometimes, items I leave here, empty bottles and cans, guns, articles of clothing etc, may be there when I return, although this is hit and miss.
 
@@ -24,12 +50,8 @@ What is enactivism? Enactivism is a theory of realism, namely, it concerns a que
 
 More importantly however, than how the environment is rendered and manipulated, is the question about why we should think that phenomenalist theories of realism play second fiddle to enactivist theories.
 
-> By contrast, enactivist theories of perception hold that human beings do directly perceive the world. According to enactivism, this direct perception is a function of the way we physically manipulate ourselves and our environments
-
 At the base of the argument is a question about how we perceive the world around us. Of course for this any knowledge about how our faculties are a part of the process that gives us the ability to respond and adapt to our environments.
 
 For instance, the philosopher Bertrand Russell in his book *Problems with Philosophy*, argued that because there is no faculty that perceives the world directly through its different aspects, then the world that we perceive is something like an illusion. We can only perceive those things that are "immediately known in sensation" [@russ12, 12].
-
-> To the eye it is oblong, brown and shiny, to the touch it is smooth and cool and hard; when I tap it, it gives out a wooden sound. Anyone else who sees and feels and hears the table will agree with this description, so that it might seem that no difficulty would arise.
 
 According to Russell, we only perceive sense data, not objects directly.
